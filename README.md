@@ -83,3 +83,21 @@ ___
 
 
 # Audit scope
+
+
+[leveraged-vaults @ ea26c0602f6b049618e668f8f0b5fda579f0312d](https://github.com/notional-finance/leveraged-vaults/tree/ea26c0602f6b049618e668f8f0b5fda579f0312d)
+- [leveraged-vaults/contracts/vaults/BalancerComposableAuraVault.sol](leveraged-vaults/contracts/vaults/BalancerComposableAuraVault.sol)
+- [leveraged-vaults/contracts/vaults/balancer/BalancerVaultTypes.sol](leveraged-vaults/contracts/vaults/balancer/BalancerVaultTypes.sol)
+- [leveraged-vaults/contracts/vaults/balancer/external/ComposableAuraHelper.sol](leveraged-vaults/contracts/vaults/balancer/external/ComposableAuraHelper.sol)
+- [leveraged-vaults/contracts/vaults/balancer/internal/BalancerConstants.sol](leveraged-vaults/contracts/vaults/balancer/internal/BalancerConstants.sol)
+- [leveraged-vaults/contracts/vaults/balancer/internal/math/ComposableOracleMath.sol](leveraged-vaults/contracts/vaults/balancer/internal/math/ComposableOracleMath.sol)
+- [leveraged-vaults/contracts/vaults/balancer/internal/math/FixedPoint.sol](leveraged-vaults/contracts/vaults/balancer/internal/math/FixedPoint.sol)
+- [leveraged-vaults/contracts/vaults/balancer/internal/math/Math.sol](leveraged-vaults/contracts/vaults/balancer/internal/math/Math.sol)
+- [leveraged-vaults/contracts/vaults/balancer/internal/math/StableMath.sol](leveraged-vaults/contracts/vaults/balancer/internal/math/StableMath.sol)
+- [leveraged-vaults/contracts/vaults/balancer/internal/pool/BalancerComposablePoolUtils.sol](leveraged-vaults/contracts/vaults/balancer/internal/pool/BalancerComposablePoolUtils.sol)
+- [leveraged-vaults/contracts/vaults/balancer/internal/pool/BalancerUtils.sol](leveraged-vaults/contracts/vaults/balancer/internal/pool/BalancerUtils.sol)
+- [leveraged-vaults/contracts/vaults/balancer/internal/reward/ComposableAuraRewardUtils.sol](leveraged-vaults/contracts/vaults/balancer/internal/reward/ComposableAuraRewardUtils.sol)
+- [leveraged-vaults/contracts/vaults/balancer/mixins/AuraStakingMixin.sol](leveraged-vaults/contracts/vaults/balancer/mixins/AuraStakingMixin.sol)
+- [leveraged-vaults/contracts/vaults/balancer/mixins/BalancerComposablePoolMixin.sol](leveraged-vaults/contracts/vaults/balancer/mixins/BalancerComposablePoolMixin.sol)
+- [leveraged-vaults/contracts/vaults/balancer/mixins/BalancerPoolMixin.sol](leveraged-vaults/contracts/vaults/balancer/mixins/BalancerPoolMixin.sol)
+
