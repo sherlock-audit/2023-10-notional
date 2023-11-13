@@ -79,7 +79,7 @@ ___
 ### Q: Add links to relevant protocol resources
 https://docs.notional.finance/notional-v3/leveraged-vaults/what-are-leveraged-vaults
 
-https://github.com/notional-finance/leveraged-vaults/blob/tests/composable-pool/README.md
+https://github.com/sherlock-audit/2023-10-notional/blob/main/leveraged-vaults/README.md
 ___
 
 
